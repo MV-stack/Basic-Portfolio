@@ -1,7 +1,7 @@
 #masthead {
     position: fixed;
     z-index: 99;
-    width: 100%;
+    width: 98%;
     margin: 0 0 30px;
     overflow: auto;
     color: #ffffff;
@@ -121,22 +121,17 @@ body {
   margin: auto;
 }
 
-/*h1 {
-  font-size: 50px;
-  word-break: break-all;
-} */
-
 .row {
   margin: 8px -16px;
 }
 
-/* Add padding BETWEEN each column (if you want) */
+/* Add padding between each column  */
 .row,
 .row > .column {
   padding: 8px;
 }
 
-/* Create five equal columns that floats next to each other */
+/* Create five equal columns that float next to each other */
 .column {
   float: left;
   width: 20%;
